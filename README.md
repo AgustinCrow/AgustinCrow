@@ -1,5 +1,19 @@
 ### Hello World 👋 It's Agus
-<img alt="Image Alt Text" src="./img/perrito.jpg" />
+I'm a Frontend developer with my 
+<br/>
+
+<a href="https://twitter.com/agustinyciel">
+<img align="left" alt="AgustinCrow Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.linkedin.com/in/santiago-agustin-flores/">
+<img align="left" alt="AgustinCrow LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+
+<br />
+
+<img align="right" alt="Smoking dog" src="./img/perrito.jpg" width="240px" />
+
+<br />
 
 ### Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,cs,python,ruby,rails)](https://skillicons.dev)
