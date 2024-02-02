@@ -1,5 +1,5 @@
 ### Hello World 👋 It's Agus
-I'm a Frontend developer with my 
+I'm a Fullstack web developer
 <br/>
 
 <a href="https://twitter.com/agustinyciel">
@@ -18,7 +18,7 @@ I'm a Frontend developer with my
 ### Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,cs,python,ruby,rails)](https://skillicons.dev)
 
-### A Quote
+### :bulb: A Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20assure%20you,%20brother,%20the%20sun%20will%20shine%20on%20us%20again.&author=Loki%20in%20Avengers:%20Infinity%20War%20(2018))](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **AgustinCrow/AgustinCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
