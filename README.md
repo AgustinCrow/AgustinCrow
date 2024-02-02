@@ -1,7 +1,11 @@
 ### Hello World 👋 It's Agus
+<img alt="Image Alt Text" src="./img/perrito.jpg" />
 
 ### Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,cs,python,ruby,rails)](https://skillicons.dev)
+
+### A Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hi)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **AgustinCrow/AgustinCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
