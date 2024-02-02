@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello World 👋 It's Agus
 
+### Languages and tools
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,cs,python,ruby,rails)](https://skillicons.dev)
 <!--
 **AgustinCrow/AgustinCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
